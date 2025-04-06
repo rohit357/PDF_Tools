@@ -28,7 +28,7 @@ wkhtmltopdf --version
 
 ### 🌟 Generate Stylish PDF
 ```bash
-python merger.py
+python main.py
 ```
 📝 Choose option 1 and follow prompts!
 - Creates modern, formatted PDFs
@@ -36,7 +36,7 @@ python merger.py
 
 ### 🔭 Merge PDF Files
 ```bash
-python merger.py
+python main.py
 ```
 📝 Choose option 2 and:
 1. Enter filenames separated by spaces
@@ -63,4 +63,5 @@ python merger.py
 🎉 **Happy Document Creating!** Need help? [Email support](leviathan_rohit@proton.me)
 
 ## Rohit Sharma
+leviathan_rohit@proton.me
 <!-- Created By Rohit Sharma -->
